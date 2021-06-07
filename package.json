@@ -15,8 +15,7 @@
     "react-scripts": "4.0.3",
     "timeago.js": "^4.0.2",
     "web-vitals": "^1.0.1"
-  },
-  "homepage" : "http://ec2-15-237-81-137.eu-west-3.compute.amazonaws.com/projects/notes/",
+  }, 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
